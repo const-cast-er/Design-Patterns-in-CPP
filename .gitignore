@@ -32,3 +32,5 @@
 *.app
 /home/dionysus/Projects/Design Patterns/Design Patterns C++/Creational
 /home/dionysus/Projects/Design Patterns/Design Patterns C++/Creational/*
+Creational/build-AbstractFactory-Desktop_Qt_5_11_2_GCC_64bit-Debug/*
+Creational/build-AbstractFactory-Desktop_Qt_5_11_2_GCC_64bit-Debug/
